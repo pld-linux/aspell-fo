@@ -22,7 +22,7 @@ Faroese dictionary (i.e. word list) for aspell.
 Føroyska orðalistan til rættlestur.
 
 %description -l pl
-S³ownik farerski (lista s³ów) dla aspella.
+S³ownik (lista s³ów) farerski dla aspella.
 
 %prep
 %setup -q -n aspell5-fo-%{version}-%{subv}
