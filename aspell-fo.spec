@@ -8,6 +8,7 @@ Epoch:		1
 License:	GPL
 Group:		Applications/Text
 Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/fo/%{name}-%{version}-%{subv}.tar.bz2
+# Source0-md5:	9a1031062c72ffce7dac284ed0006a02
 URL:		http://aspell.sourceforge.net/
 BuildRequires:	aspell >= 0.50.0
 Requires:	aspell >= 0.50.0
