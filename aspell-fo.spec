@@ -1,14 +1,14 @@
 Summary:	Faroese dictionary for aspell
 Summary(pl):	Farerski s³ownik dla aspella
 Name:		aspell-fo
-Version:	0.50
-%define	subv	2
-Release:	2
+Version:	0.51
+%define	subv	0
+Release:	1
 Epoch:		1
 License:	GPL
 Group:		Applications/Text
 Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/fo/%{name}-%{version}-%{subv}.tar.bz2
-# Source0-md5:	9a1031062c72ffce7dac284ed0006a02
+# Source0-md5:	5cc9168ad88ceb1b5531a5452527728b
 URL:		http://aspell.sourceforge.net/
 BuildRequires:	aspell >= 0.50.0
 Requires:	aspell >= 0.50.0
