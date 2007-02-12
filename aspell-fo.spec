@@ -1,6 +1,6 @@
 Summary:	Faroese dictionary for aspell
-Summary(fo.UTF-8):   Føroyska orðalistan til rættlestur
-Summary(pl.UTF-8):   Słownik farerski dla aspella
+Summary(fo.UTF-8):	Føroyska orðalistan til rættlestur
+Summary(pl.UTF-8):	Słownik farerski dla aspella
 Name:		aspell-fo
 Version:	0.2.16
 %define	subv	1
