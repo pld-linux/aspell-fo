@@ -1,6 +1,6 @@
 Summary:	Faroese dictionary for aspell
-Summary(fo):	Føroyska orðalistan til rættlestur
-Summary(pl):	S³ownik farerski dla aspella
+Summary(fo.UTF-8):   FÃ¸royska orÃ°alistan til rÃ¦ttlestur
+Summary(pl.UTF-8):   SÅ‚ownik farerski dla aspella
 Name:		aspell-fo
 Version:	0.2.16
 %define	subv	1
@@ -18,11 +18,11 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Faroese dictionary (i.e. word list) for aspell.
 
-%description -l fo
-Føroyska orðalistan til rættlestur.
+%description -l fo.UTF-8
+FÃ¸royska orÃ°alistan til rÃ¦ttlestur.
 
-%description -l pl
-S³ownik farerski (lista s³ów) dla aspella.
+%description -l pl.UTF-8
+SÅ‚ownik farerski (lista sÅ‚Ã³w) dla aspella.
 
 %prep
 %setup -q -n aspell5-fo-%{version}-%{subv}
