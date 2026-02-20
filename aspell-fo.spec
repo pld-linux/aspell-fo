@@ -4,7 +4,7 @@ Summary(pl.UTF-8):	Słownik farerski dla aspella
 Name:		aspell-fo
 Version:	0.2.16
 %define	subv	1
-Release:	1
+Release:	2
 Epoch:		2
 License:	GPL v2+
 Group:		Applications/Text
